@@ -1,7 +1,7 @@
 import {device, expect, element, by} from 'detox';
 import {test, beforeAll, beforeEach, describe} from '@jest/globals';
 
-describe('Example', () => {
+describe.skip('Example', () => {
   beforeAll(async () => {
     await device.launchApp();
   });

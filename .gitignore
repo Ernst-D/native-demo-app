@@ -58,3 +58,6 @@ buck-out/
 
 # detox artifacts
 .artifacts
+
+# generated tests
+e2e/gen
