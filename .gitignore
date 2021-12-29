@@ -58,3 +58,6 @@ buck-out/
 
 # Extra
 package-lock.json
+
+# detox artifacts
+.artifacts
