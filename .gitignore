@@ -54,10 +54,7 @@ buck-out/
 *.jsbundle
 
 # CocoaPods
-/ios/Pods/
-
-# Extra
-package-lock.json
+/ios/Pods/ 
 
 # detox artifacts
 .artifacts
